@@ -59,3 +59,8 @@ Here are some ideas to get you started:
 ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+### Coding Harnesses
+
+![Pi](https://img.shields.io/badge/Pi-1E1E1E?style=for-the-badge&logo=pi&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
