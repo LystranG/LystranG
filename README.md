@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Lystran 👋</h1>
 
 <p align="center">
-  Backend Engineer · Cloud Native Infrastructure · Open Source
+  Software Engineer · Cloud Native · Open Source
 </p>
