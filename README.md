@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 ### Coding Harnesses
 
 ![Pi](https://img.shields.io/badge/Pi-1E1E1E?style=for-the-badge&logo=pi&logoColor=white)
-![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
